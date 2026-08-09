@@ -1,11 +1,11 @@
 {
-  "versao": 1,
-  "geradoEm": "2026-08-05",
+  "versao": 2,
+  "geradoEm": "2026-08-09",
   "validadeCacheHoras": 168,
   "arquivos": {
     "frases": {
       "caminho": "frases.json",
-      "sha256": "34e7e244af66bdbaacd58e3c04d5515a6905b8abd5c1793d2b5bae2fb19beca6"
+      "sha256": "4200a6d3e102ff2d17f1bcfc6bc9deaa5a58fb0b7a6599beef4bc3fa07a276d7"
     },
     "scripts": {
       "caminho": "scripts.json",
@@ -13,7 +13,7 @@
     },
     "midia": {
       "caminho": "midia.json",
-      "sha256": "2c13f8f9362c29c8a17c45d60b15597bc87860f51111e5858aebb4b2479c81e6"
+      "sha256": "6d9a0b442dd18a8ff116429016cbc765a655398291d251098010db46de59de64"
     }
   },
   "categorias": [

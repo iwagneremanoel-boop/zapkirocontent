@@ -1,1 +1,17 @@
-# Pasta de áudio
+Audios curtos do aquecimento.
+
+Regras, e cada uma tem motivo:
+
+- de 2 a 4 segundos, ate 300 KB. Audio longo em conversa casual e o oposto do que
+  se quer imitar.
+- extensao .ogg, .mp3 ou .m4a. O WhatsApp prefere .ogg com codec opus, que e o que
+  o proprio aplicativo grava.
+- nome so com letra, numero, ponto, hifen e sublinhado. O nome vira parte de uma
+  URL.
+- sem voz identificavel e sem nada dito que pareca anuncio. Um "uhum", um risinho,
+  um "ta bom" resolvem. Voz de pessoa real repetida entre milhares de contas e
+  padrao reconhecivel, que e exatamente o que o aquecimento existe para evitar.
+
+Depois de subir o arquivo, declare em midia.json:
+
+  { "arquivo": "audio/uhum-01.ogg", "tipo": "AUDIO", "categorias": ["RESPOSTA_CURTA"] }

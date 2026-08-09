@@ -1,4 +1,2063 @@
 {
-  "versao": 1,
-  "midia": []
+  "versao": 2,
+  "midia": [
+    {
+      "arquivo": "images/2-wolves-5e17.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/ah-yes-enslaved-x-background-full-clean-c430.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/ah-yes-the-negotiator-ah-the-negotiator-463d.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/all-right-then-keep-your-secrets-frodo-b-3262.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/american-dad-threat-level-empty-template-a56c.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/are-you-going-to-sleep-empty-template-fu-aa8a.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/assassination-chain-church-sniper-other-2db6.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/bending-streetlight-mojtaba-heidarpanah-53bd.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/black-guys-taking-notes-jamal-randle-lor-2ebc.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/boy-pointing-at-book-me-the-facts-c198.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/boy-pointing-at-book-textless-me-the-fac-54a3.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/boys-vs-girls-empty-template-realistic-i-cbbc.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/boys-vs-girls-group-empty-template-trad-6290.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/breath-in-boi-spongebob-squarepants-dc9b.png",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/bugs-bunny-s-no-92d9.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/bugs-bunny-shooting-a-gun-template-loone-c1b7.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/carefully-he-s-a-hero-spider-man-d676.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/cat-looking-at-man-holding-dog-jealous-c-7eab.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/cat-pap-empty-template-pat-black-catchat-90e7.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/chad-driver-2-panel-empty-template-car-d-50ff.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/chaeyoung-drinking-template-asian-drink-795d.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/change-my-mind-change-my-meownd-empty-te-b5c6.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/change-my-mind-empty-template-arrested-v-a31c.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/chat-choque-surpris-c433.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/clown-ride-roller-coaster-attraction-v1-fed7.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/community-fire-pizza-the-darkest-timelin-ce7f.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/coughing-cat-template-stairs-tongue-stic-5f13.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/death-and-the-dog-it-is-time-to-go-was-i-2b55.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/destin-neji-hy-ga-neiji-hyuuga-naruto-t-1bf1.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/destruction-100-the-elder-scrolls-v-skyr-d120.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/dog-lowsoast-cosplay-6110.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/don-t-hate-the-play-hate-the-game-son-ri-b420.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/every-day-we-stray-further-from-god-perr-77bb.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/finally-a-worthy-opponent-our-battle-wil-408e.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/fitness-is-my-passion-boy-who-s-passion-e75f.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/floating-boy-chasing-running-boy-guy-ful-4945.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/frowning-bugs-contemptful-bugs-bunny-the-9238.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/gold-ingots-make-gold-block-in-crafting-c597.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/good-question-shrek-bc92.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/happy-cat-nedm-not-even-doom-music-i-can-0084.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/harry-megan-windsor-dog-fc25.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/hasbulla-magomedov-car-chocked-kid-ad33.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/he-exists-now-only-in-my-memory-titanic-e9cb.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/help-i-accidentally-built-a-x-empty-temp-fdd6.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/helth-mememan-health-08c9.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/hide-the-pain-harold-maurice-8b9b.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/hmm-yes-the-floor-here-is-made-out-of-fl-ecf0.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/horse-realistic-draw-sketch-horse-v1-193c.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/i-see-no-god-up-here-other-than-me-templ-8e77.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/i-serve-the-soviet-union-chernobyl-hbo-g-5a63.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/i-sleep-real-shot-8e57.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/i-think-we-all-know-where-this-is-going-68f8.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/i-ve-seen-enough-i-m-satisfied-dio-brand-e2a5.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/i-will-find-you-and-i-will-kill-you-text-4285.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/illusion-100-the-elder-scrolls-v-skyrim-aeea.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/improvise-adapt-overcome-man-vs-wild-bea-6109.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/is-for-me-ca0d.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/is-it-possible-to-learn-this-power-star-dad8.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/is-this-pigeon-clean-44fe.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/it-s-a-surprise-tool-that-will-helps-us-6ade.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/it-s-always-sunny-in-philadelphia-restau-46f5.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/just-light-it-linda-depressed-cat-in-pot-5110.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/keep-out-or-enter-i-m-a-sign-not-a-cop-l-99a4.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/kermit-on-a-bed-cropped-kermit-the-frog-1341.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/kermit-on-a-bed-full-kermit-the-frog-the-edb5.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/kids-fighting-girl-boy-children-bullying-6e76.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/knight-smoking-cigarettes-through-helmet-5fe1.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/kronk-oh-yeah-it-s-all-coming-together-47cd.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/left-exit-12-off-ramp-highway-exit-drift-4990.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/left-exit-12-off-ramp-highway-exit-drift-ec27.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/lofi-girl-a4b7.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/lofi-girl-night-cb16.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/malcolm-car-2cb3.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/man-sun-fingers-18e8.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/mario-bros-views-empty-template-luigi-ma-17da.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/mario-bros-views-luigi-by-jd-hancock-pho-5852.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/mario-bros-views-mario-by-jd-hancock-pho-2b2c.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/mekanik-mememan-mechanic-ff5f.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/men-discussing-men-fighting-men-discussi-35dd.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/minecraft-choice-button-be3b.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/modern-problems-require-modern-solutions-0acc.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/my-time-has-come-master-oogway-kung-fu-p-4c58.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/no-no-he-s-got-a-point-no-no-he-has-a-po-7435.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/oh-no-anyway-jeremy-clarkson-top-gear-ce1a.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/okay-get-in-spongebob-squarepants-patric-600d.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/omelette-du-fromage-dexter-s-laboratory-e488.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/parkour-michael-gary-scott-the-office-129e.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/patrick-star-wallet-man-ray-spongebob-sq-1b93.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/patrick-star-with-british-teeth-hd-trans-3426.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/people-are-gay-steven-phyllis-lapin-vanc-7005.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/peter-parker-s-glasses-spider-man-4bb9.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/plastic-duck-intru-swans-0b8f.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/pointing-guns-at-each-other-in-cars-01-f-1861.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/president-gumball-the-amazing-world-of-g-1f4c.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/press-y-to-shame-middle-earth-shadow-of-336b.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/ptsd-dog-war-helicopters-chien-guerre-he-c64d.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/sad-birthday-cat-hat-candle-cake-chat-ca-69b7.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/sad-chad-empty-template-noir-06ba.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/sad-lying-down-stitch-from-lilo-stitch-2-7f56.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/savage-patrick-evil-patrick-angry-patric-e05c.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/saving-private-ryan-aging-matt-damon-01c7.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/shef-mememan-chef-2176.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/shrek-in-a-mud-bath-shrek-smiling-croppe-0f57.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/shrek-in-a-mud-bath-shrek-smiling-croppe-fa15.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/shrek-in-a-mud-bath-shrek-smiling-full-s-9531.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/shrugging-tom-hd-redraw-tom-and-jerry-u-c39d.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/shut-up-and-take-my-money-philip-j-fry-f-5fbb.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/sir-squeeks-says-die-mouse-sword-knight-f164.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/skips-sitting-next-to-graves-the-price-o-b4f5.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/slav-cat-in-tracksuit-the-forbidden-blya-d00e.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/sneak-100-the-elder-scrolls-v-skyrim-ss-aa78.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/spider-man-pointing-at-spider-man-ps4-ve-b431.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/spider-man-pointing-at-spider-man-upscal-0d89.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/spidrun-mememan-2374.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/sponge-bob-hugs-67ab.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/spongebob-in-heaven-squidward-in-hell-bo-22f9.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/spooky-hat-cat-halloween-chat-cat-1377.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/srgrafo-time-traveled-clean-e7f2.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/surprised-shaq-shaq-s-hot-ones-interview-4230.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/tehc-meme-man-d236.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/tell-me-the-truth-i-m-ready-to-hear-it-t-22f2.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/the-rock-driving-pulp-fiction-gun-john-t-ed60.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/the-world-if-how-society-would-look-imag-4446.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/the-world-if-how-society-would-look-imag-60bf.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/there-are-no-accidents-master-oogway-kun-d539.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/they-had-us-in-the-first-half-football-u-ce77.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/they-re-the-same-picture-corporate-needs-62dc.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/they-re-the-same-picture-corporate-needs-b2b2.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/this-is-fine-earth-burning-9f37.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/tom-disturbed-scared-unsettled-e5cb.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/toucan-broken-bird-beak-0810.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/understandable-have-a-great-day-shaquill-5743.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/unsheathing-the-sword-kamina-s-sword-1-g-538c.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/unsheathing-the-sword-kamina-s-sword-4-e-05e6.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/virgin-crying-boy-chad-girl-5ee9.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/well-that-sounds-like-slavery-with-extra-f2d5.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/when-x-vs-when-x-template-blep-cat-tongu-e538.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/when-your-parents-ask-where-all-your-mon-6ffa.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/will-smith-slap-v1-2d3d.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/will-smith-slap-v2-99f9.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/winnie-the-pooh-teeth-c938.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/wooo-dexter-reed-good-burger-glowing-red-62d4.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/write-that-down-write-that-down-spongebo-6145.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/yes-chad-bf23.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/you-guys-are-getting-paid-full-david-cla-f24b.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "images/you-guys-are-getting-paid-kenny-rossmore-6e17.jpg",
+      "tipo": "IMAGEM",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/classic-juno-a-1-f826.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/classic-juno-a-2-66be.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/classic-juno-a-3-90b2.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/classic-juno-a-4-80bd.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/classic-juno-a1-3851.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/classic-juno-a2-7043.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/classic-juno-a3-35f3.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/classic-juno-a4-67e9.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/classic-juno-b1-d1b7.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/classic-juno-b2-b57e.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/classic-juno-b3-194f.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/classic-juno-b4-b077.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/classic-juno-c-1-ad38.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/classic-juno-c-2-9ccb.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/classic-juno-c-3-e3ce.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/classic-juno-c-4-0593.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/classic-juno-c1-c045.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/classic-juno-c2-f5b4.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/classic-juno-c3-3534.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/classic-juno-c4-6a45.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/classic-juno-d-1-8321.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/classic-juno-d-2-e0da.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/classic-juno-d-3-e08f.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/classic-juno-d-4-162e.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/classic-juno-d1-e7c4.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/classic-juno-d2-35a5.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/classic-juno-d3-28f7.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/classic-juno-d4-2efe.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/classic-juno-e1-ea7c.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/classic-juno-e2-b7ce.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/classic-juno-e3-c5f5.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/classic-juno-e4-6125.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/classic-juno-f-1-739e.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/classic-juno-f-2-7080.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/classic-juno-f-3-06c1.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/classic-juno-f-4-5670.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/classic-juno-f1-2731.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/classic-juno-f2-d872.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/classic-juno-f3-146a.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/classic-juno-f4-8a45.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/classic-juno-g-1-1169.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/classic-juno-g-2-db25.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/classic-juno-g-3-24e0.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/classic-juno-g-4-14c6.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/classic-juno-g1-f18e.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/classic-juno-g2-68de.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/classic-juno-g3-ecdc.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/classic-juno-g4-4852.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/de2-arp01-120bpm-4f4c.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/de2-arp02-120bpm-c61d.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/de2-arp03-120bpm-b506.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/de2-arp04-120bpm-862a.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/de2-arp05-120bpm-a4a6.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/de2-arp06-120bpm-bcff.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/de2-arp07-120bpm-16e6.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/de2-arp08-120bpm-2949.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/de2-arp09-120bpm-8a8d.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/de2-arp10-120bpm-96de.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/de2-arp11-120bpm-c4be.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/de2-arp12-120bpm-d9c5.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/de2-arp13-120bpm-2e9f.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/de2-arp14-120bpm-09bd.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/de2-arp15-120bpm-a2b0.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/de2-arp16-120bpm-53bf.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/de2-arp17-120bpm-b061.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/de2-arp18-120bpm-4a56.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/de2-arp19-120bpm-7256.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/de2-arp20-120bpm-3edb.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/de2-arp21-120bpm-b9a9.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/de2-arp22-120bpm-22a1.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/de2-arp23-120bpm-8132.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/de2-arp24-120bpm-6fe8.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/de2-arp25-120bpm-2ab8.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp-modulateddelay01-130bpm-7ab4.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp-modulateddelay02-130bpm-098d.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp-modulateddelay03-130bpm-3820.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp-modulateddelay04-130bpm-5658.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp-modulateddelay05-130bpm-875a.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp-modulateddelay06-130bpm-e135.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp-modulateddelay07-130bpm-ad16.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp-modulateddelay08-130bpm-72fa.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp-modulateddelay09-130bpm-49e6.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp-modulateddelay10-130bpm-a6b9.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp-modulateddelay11-130bpm-8d90.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp-modulateddelay12-130bpm-0736.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp-modulateddelay13-130bpm-a141.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp-reverb01-130bpm-5d87.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp-reverb02-130bpm-0e61.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp-reverb03-130bpm-e68a.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp-reverb04-130bpm-f9a1.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp01-130bpm-110c.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp02-130bpm-fe3b.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp03-130bpm-806c.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp04-130bpm-8a01.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp05-130bpm-8205.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp06-130bpm-bd2d.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp07-130bpm-4746.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp08-130bpm-967e.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp09-130bpm-bbfd.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp10-130bpm-fc25.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp11-130bpm-f3ff.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp12-130bpm-c6e0.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp13-130bpm-4b46.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp14-130bpm-8676.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp15-130bpm-7da1.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp16-130bpm-1662.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp17-130bpm-41b3.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp18-130bpm-500e.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp19-130bpm-e194.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp20-130bpm-2fc9.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp21-130bpm-2661.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp22-130bpm-d89d.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp23-130bpm-e634.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp24-130bpm-458a.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp25-130bpm-d333.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp26-130bpm-7de2.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp27-130bpm-558f.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp28-130bpm-5c57.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp29-130bpm-c2ff.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp30-130bpm-67e1.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp31-130bpm-3359.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp32-130bpm-5909.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp33-130bpm-c492.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp34-130bpm-5273.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp35-130bpm-d5fa.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp36-130bpm-562f.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp37-130bpm-761e.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp38-130bpm-3daf.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp39-130bpm-b95e.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp40-130bpm-dae8.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp41-130bpm-77b1.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp42-130bpm-c26c.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp43-130bpm-df5e.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp44-130bpm-94de.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp45-130bpm-abe3.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp46-130bpm-bec8.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp47-130bpm-f716.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/juno-60-arp48-130bpm-2a67.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/minibrute-arp-moogdelay01-130bpm-30c7.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/minibrute-arp-moogdelay02-130bpm-861b.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/minibrute-arp-moogdelay03-130bpm-0798.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/minibrute-arp-moogdelay04-130bpm-10cf.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/minibrute-arp-moogdelay05-130bpm-5a6b.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/minibrute-arp-moogdelay06-130bpm-fa5c.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/minibrute-arp-moogdelay07-130bpm-e787.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/minibrute-arp-moogdelay08-130bpm-143b.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/minibrute-arp-moogdelay09-130bpm-24bd.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    },
+    {
+      "arquivo": "audio/minibrute-arp-moogdelay10-130bpm-1cde.ogg",
+      "tipo": "AUDIO",
+      "categorias": [
+        "REACAO"
+      ]
+    }
+  ]
 }

@@ -1,1 +1,18 @@
-# Pasta de imagens
+Imagens do aquecimento.
+
+Regras, e cada uma tem motivo:
+
+- ate 200 KB. Midia pesada em aquecimento nao ajuda em nada e chama atencao.
+- extensao .jpg, .jpeg, .png ou .webp. Nada de .svg: SVG e documento com script,
+  nao imagem, e o aquecimento distribuiria codigo.
+- nome so com letra, numero, ponto, hifen e sublinhado. O nome vira parte de uma
+  URL, e caractere estranho depende de como cada servidor normaliza.
+- conteudo neutro e sem texto na imagem. Foto de paisagem, cafe, pet, ceu.
+  Nada de logo, preco, print de conversa ou rosto de pessoa real.
+
+Depois de subir o arquivo, declare em midia.json:
+
+  { "arquivo": "images/cafe-01.jpg", "tipo": "IMAGEM", "categorias": [] }
+
+Categoria vazia significa "serve em qualquer turno". Preencha quando a imagem so
+fizer sentido em um contexto: foto de bom-dia so combina com SAUDACAO.
