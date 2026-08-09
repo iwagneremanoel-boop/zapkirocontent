@@ -1,0 +1,111 @@
+{
+  "versao": 1,
+  "geradoEm": "2026-08-05",
+  "validadeCacheHoras": 168,
+  "arquivos": {
+    "frases": {
+      "caminho": "frases.json",
+      "sha256": "34e7e244af66bdbaacd58e3c04d5515a6905b8abd5c1793d2b5bae2fb19beca6"
+    },
+    "scripts": {
+      "caminho": "scripts.json",
+      "sha256": "46d28d100e5dde2b73c89a9b903db05fec4043743327900c5412075b1c42dc1e"
+    },
+    "midia": {
+      "caminho": "midia.json",
+      "sha256": "2c13f8f9362c29c8a17c45d60b15597bc87860f51111e5858aebb4b2479c81e6"
+    }
+  },
+  "categorias": [
+    {
+      "id": "SAUDACAO",
+      "rotulo": "Saudação",
+      "uso": [
+        "GRUPO",
+        "PAR"
+      ],
+      "descricao": "Cumprimento de entrada. Serve para abrir conversa em grupo e como primeiro turno de par."
+    },
+    {
+      "id": "ABERTURA_CASUAL",
+      "rotulo": "Abertura casual",
+      "uso": [
+        "PAR"
+      ],
+      "descricao": "Primeiro turno de quem abre a sessão do par. Pergunta leve, sem assunto definido."
+    },
+    {
+      "id": "RESPOSTA_CURTA",
+      "rotulo": "Resposta curta",
+      "uso": [
+        "PAR"
+      ],
+      "descricao": "Devolução breve de quem recebe, normalmente com pergunta de volta."
+    },
+    {
+      "id": "CONTINUIDADE",
+      "rotulo": "Continuidade",
+      "uso": [
+        "GRUPO",
+        "PAR"
+      ],
+      "descricao": "Turno que mantém a conversa andando sem introduzir assunto novo."
+    },
+    {
+      "id": "PERGUNTA_CASUAL",
+      "rotulo": "Pergunta casual",
+      "uso": [
+        "GRUPO",
+        "PAR"
+      ],
+      "descricao": "Pergunta aberta e inofensiva, que convida resposta sem exigir contexto."
+    },
+    {
+      "id": "REACAO",
+      "rotulo": "Reação",
+      "uso": [
+        "GRUPO"
+      ],
+      "descricao": "Resposta a algo dito antes. Curta, do tipo que aparece em grupo ativo."
+    },
+    {
+      "id": "AFIRMACAO",
+      "rotulo": "Afirmação",
+      "uso": [
+        "GRUPO",
+        "PAR"
+      ],
+      "descricao": "Comentário próprio, sem pergunta. Dá volume sem exigir resposta."
+    },
+    {
+      "id": "ENCERRAMENTO",
+      "rotulo": "Encerramento",
+      "uso": [
+        "GRUPO",
+        "PAR"
+      ],
+      "descricao": "Fecha a participação sem cortar a conversa dos outros."
+    }
+  ],
+  "papeis": [
+    {
+      "id": "ABRE",
+      "descricao": "Lado que inicia a sessão do dia. Alterna a cada dia dentro do pareamento."
+    },
+    {
+      "id": "RESPONDE",
+      "descricao": "Lado que responde na sessão do dia."
+    }
+  ],
+  "regras": {
+    "turnosPorSessao": {
+      "min": 2,
+      "max": 6
+    },
+    "latenciaRespostaSegundos": {
+      "min": 40,
+      "max": 480
+    },
+    "observacao": "Nenhuma frase do acervo pode conter link, convite, preço ou nome de produto. É conversa, não divulgação."
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "versao": 1,
+  "scripts": [
+    {
+      "id": "abertura-curta",
+      "rotulo": "Abertura curta",
+      "contexto": "PRIMEIRO_DIA",
+      "turnos": [
+        { "ordem": 1, "papel": "ABRE", "categoria": "SAUDACAO" },
+        { "ordem": 2, "papel": "RESPONDE", "categoria": "RESPOSTA_CURTA" }
+      ]
+    },
+    {
+      "id": "aceno-rapido",
+      "rotulo": "Aceno rápido",
+      "contexto": "QUALQUER",
+      "turnos": [
+        { "ordem": 1, "papel": "ABRE", "categoria": "ABERTURA_CASUAL" },
+        { "ordem": 2, "papel": "RESPONDE", "categoria": "RESPOSTA_CURTA" }
+      ]
+    },
+    {
+      "id": "troca-simples",
+      "rotulo": "Troca simples",
+      "contexto": "PRIMEIRO_DIA",
+      "turnos": [
+        { "ordem": 1, "papel": "ABRE", "categoria": "SAUDACAO" },
+        { "ordem": 2, "papel": "RESPONDE", "categoria": "RESPOSTA_CURTA" },
+        { "ordem": 3, "papel": "ABRE", "categoria": "CONTINUIDADE" }
+      ]
+    },
+    {
+      "id": "pergunta-e-volta",
+      "rotulo": "Pergunta e volta",
+      "contexto": "QUALQUER",
+      "turnos": [
+        { "ordem": 1, "papel": "ABRE", "categoria": "PERGUNTA_CASUAL" },
+        { "ordem": 2, "papel": "RESPONDE", "categoria": "AFIRMACAO" },
+        { "ordem": 3, "papel": "ABRE", "categoria": "REACAO" }
+      ]
+    },
+    {
+      "id": "retomada-simples",
+      "rotulo": "Retomada simples",
+      "contexto": "RETOMADA",
+      "turnos": [
+        { "ordem": 1, "papel": "ABRE", "categoria": "ABERTURA_CASUAL" },
+        { "ordem": 2, "papel": "RESPONDE", "categoria": "RESPOSTA_CURTA" },
+        { "ordem": 3, "papel": "ABRE", "categoria": "CONTINUIDADE" },
+        { "ordem": 4, "papel": "RESPONDE", "categoria": "ENCERRAMENTO" }
+      ]
+    },
+    {
+      "id": "conversa-de-manha",
+      "rotulo": "Conversa de manhã",
+      "contexto": "RETOMADA",
+      "turnos": [
+        { "ordem": 1, "papel": "ABRE", "categoria": "SAUDACAO" },
+        { "ordem": 2, "papel": "RESPONDE", "categoria": "RESPOSTA_CURTA" },
+        { "ordem": 3, "papel": "ABRE", "categoria": "PERGUNTA_CASUAL" },
+        { "ordem": 4, "papel": "RESPONDE", "categoria": "AFIRMACAO" }
+      ]
+    },
+    {
+      "id": "comentario-e-reacao",
+      "rotulo": "Comentário e reação",
+      "contexto": "QUALQUER",
+      "turnos": [
+        { "ordem": 1, "papel": "ABRE", "categoria": "AFIRMACAO" },
+        { "ordem": 2, "papel": "RESPONDE", "categoria": "REACAO" },
+        { "ordem": 3, "papel": "ABRE", "categoria": "CONTINUIDADE" },
+        { "ordem": 4, "papel": "RESPONDE", "categoria": "RESPOSTA_CURTA" }
+      ]
+    },
+    {
+      "id": "dois-de-uma-vez",
+      "rotulo": "Dois de uma vez",
+      "contexto": "QUALQUER",
+      "turnos": [
+        { "ordem": 1, "papel": "ABRE", "categoria": "SAUDACAO" },
+        { "ordem": 2, "papel": "ABRE", "categoria": "PERGUNTA_CASUAL" },
+        { "ordem": 3, "papel": "RESPONDE", "categoria": "RESPOSTA_CURTA" },
+        { "ordem": 4, "papel": "ABRE", "categoria": "REACAO" }
+      ]
+    },
+    {
+      "id": "assunto-que-anda",
+      "rotulo": "Assunto que anda",
+      "contexto": "RETOMADA",
+      "turnos": [
+        { "ordem": 1, "papel": "ABRE", "categoria": "ABERTURA_CASUAL" },
+        { "ordem": 2, "papel": "RESPONDE", "categoria": "RESPOSTA_CURTA" },
+        { "ordem": 3, "papel": "ABRE", "categoria": "AFIRMACAO" },
+        { "ordem": 4, "papel": "RESPONDE", "categoria": "REACAO" },
+        { "ordem": 5, "papel": "ABRE", "categoria": "ENCERRAMENTO" }
+      ]
+    },
+    {
+      "id": "papo-de-fim-de-tarde",
+      "rotulo": "Papo de fim de tarde",
+      "contexto": "QUALQUER",
+      "turnos": [
+        { "ordem": 1, "papel": "ABRE", "categoria": "SAUDACAO" },
+        { "ordem": 2, "papel": "RESPONDE", "categoria": "RESPOSTA_CURTA" },
+        { "ordem": 3, "papel": "ABRE", "categoria": "CONTINUIDADE" },
+        { "ordem": 4, "papel": "RESPONDE", "categoria": "PERGUNTA_CASUAL" },
+        { "ordem": 5, "papel": "ABRE", "categoria": "AFIRMACAO" }
+      ]
+    },
+    {
+      "id": "troca-com-pergunta-de-volta",
+      "rotulo": "Troca com pergunta de volta",
+      "contexto": "QUALQUER",
+      "turnos": [
+        { "ordem": 1, "papel": "ABRE", "categoria": "PERGUNTA_CASUAL" },
+        { "ordem": 2, "papel": "RESPONDE", "categoria": "AFIRMACAO" },
+        { "ordem": 3, "papel": "RESPONDE", "categoria": "PERGUNTA_CASUAL" },
+        { "ordem": 4, "papel": "ABRE", "categoria": "AFIRMACAO" },
+        { "ordem": 5, "papel": "RESPONDE", "categoria": "REACAO" }
+      ]
+    },
+    {
+      "id": "conversa-inteira",
+      "rotulo": "Conversa inteira",
+      "contexto": "RETOMADA",
+      "turnos": [
+        { "ordem": 1, "papel": "ABRE", "categoria": "SAUDACAO" },
+        { "ordem": 2, "papel": "RESPONDE", "categoria": "RESPOSTA_CURTA" },
+        { "ordem": 3, "papel": "ABRE", "categoria": "PERGUNTA_CASUAL" },
+        { "ordem": 4, "papel": "RESPONDE", "categoria": "AFIRMACAO" },
+        { "ordem": 5, "papel": "ABRE", "categoria": "REACAO" },
+        { "ordem": 6, "papel": "RESPONDE", "categoria": "ENCERRAMENTO" }
+      ]
+    },
+    {
+      "id": "dia-cheio",
+      "rotulo": "Dia cheio",
+      "contexto": "QUALQUER",
+      "turnos": [
+        { "ordem": 1, "papel": "ABRE", "categoria": "ABERTURA_CASUAL" },
+        { "ordem": 2, "papel": "RESPONDE", "categoria": "RESPOSTA_CURTA" },
+        { "ordem": 3, "papel": "ABRE", "categoria": "AFIRMACAO" },
+        { "ordem": 4, "papel": "RESPONDE", "categoria": "PERGUNTA_CASUAL" },
+        { "ordem": 5, "papel": "ABRE", "categoria": "CONTINUIDADE" },
+        { "ordem": 6, "papel": "RESPONDE", "categoria": "ENCERRAMENTO" }
+      ]
+    },
+    {
+      "id": "encerra-sem-resposta",
+      "rotulo": "Encerra sem resposta",
+      "contexto": "QUALQUER",
+      "turnos": [
+        { "ordem": 1, "papel": "ABRE", "categoria": "SAUDACAO" },
+        { "ordem": 2, "papel": "RESPONDE", "categoria": "RESPOSTA_CURTA" },
+        { "ordem": 3, "papel": "ABRE", "categoria": "ENCERRAMENTO" }
+      ]
+    },
+    {
+      "id": "so-um-oi",
+      "rotulo": "Só um oi",
+      "contexto": "QUALQUER",
+      "turnos": [
+        { "ordem": 1, "papel": "ABRE", "categoria": "SAUDACAO" },
+        { "ordem": 2, "papel": "RESPONDE", "categoria": "REACAO" }
+      ]
+    }
+  ]
+}
